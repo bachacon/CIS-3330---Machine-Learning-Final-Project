@@ -1,6 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/c9BU09sH)
 
-## CIS 3330 Final Project: Machine Learning Score with Sentiment
+## CIS 3330 Final Project: Machine Learning Sentiment Analysis using LSTM-based Neural Network
 
 
 
@@ -15,7 +14,7 @@
 * Transform and prep data for Model 
 
 3. LSTM Neural Network
-* Create the LSMT model
+* Create the LSTM model
 * Train the model
 * Test the model on the test set
 * View Results and verify accuracy
